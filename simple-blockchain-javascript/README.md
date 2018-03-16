@@ -8,4 +8,10 @@ This example including:
 - Creating transactions and add to the chain
 - Mining the block (find the hash) that satisfy the condition with predefined difficulty
 
+## How to?
+```
+  $> yarn install
+  $> node main
+```
+
 Thanks to **Savjee** for the inspiration and instruction 
